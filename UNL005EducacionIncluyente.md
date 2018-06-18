@@ -10,7 +10,7 @@ busca proyectar los cursos disponibles en la localidad de chapinero en una app
 4. Serghio Gomez
 5. Sergio Ortiz
 
-## FUNCIONWES INTEGRANTES
+## FUNCIONES INTEGRANTES
 1. Desarrollo Base de datos / Back-end
 2. Diseño gráfico Front-end 
 3. Desarrollo general
