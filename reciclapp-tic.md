@@ -14,7 +14,7 @@ App que fomenta el reciclaje de dispositivos electrónicos.
 
 
 # Descripción del proyecto:
-Sistema cuya función es la de servir como canal de incentivos y de comunicacion entre usuarios y centros de acopio.
+Aplicación cuya función es enseñar, fomentar y brindar mecamismos  para el reciclaje de aparatos electronicos. Aumentando el grado de interes en el reciclaje de los mismos por medio de incentivos, mejorando la comunicacion entre usuarios y centros de acopio.
 # Funciones básicas:
 - El usuario debe registrarse en la plataforma
 - La app brindará informacion de centros de acopio mas cercanos.
