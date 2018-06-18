@@ -7,7 +7,7 @@ busca proyectar los cursos disponibles en la localidad de chapinero en una app
 1. William Olaya
 2. Edna Margarita Rodriguez
 3. Jhoan Fabian Tapia
-4. Sergio Gomez
+4. Serghio Gomez
 5. Sergio Ortiz
 
 # Descripción del proyecto:
