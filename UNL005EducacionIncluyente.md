@@ -7,19 +7,25 @@ busca proyectar los cursos disponibles en la localidad de chapinero en una app
 1. William Olaya
 2. Edna Margarita Rodriguez
 3. Jhoan Fabian Tapia
-4. Sergio Gomez
+4. Serghio Gomez
 5. Sergio Ortiz
+## FUNCIONES INTEGRANTES
+1. Bases de datos / apoyo Back-End
+2. Diseño gráfico Front-end
+3. Back-End
+4. Diseño gráfico Front-end
+5. Fuente de información BD   
 
 # Descripción del proyecto:
-la misión es mostrar como con por medio de una aplicacion se busca ofrecer al publico y a la comunidad estudiantil una variedad de cursos que genere un crecimiento formativo para personas que tengan acceso a una educación limitada.
+La misión es mostrar como por medio de una aplicacion se busca ofrecer al publico y a la comunidad estudiantil de la localidad de Chapinero una variedad de cursos que genere un crecimiento formativo para personas que tengan acceso a una educación limitada.
 
 # Funciones básicas:
 - El usuario debe generar un login
-- cursos
-- categorias de cursos
-- base de datos de referencias bibliograficas
-- notificaciones sobre los cursos en procesos
-- ubicacion gps para los cursos mas cercanos
+- Cursos
+- Categorias de cursos
+- Base de datos de referencias bibliograficas
+- Notificaciones sobre los cursos en procesos
+- Ubicacion gps para los cursos mas cercanos
 - video de manejo de uso de la app
 
 
