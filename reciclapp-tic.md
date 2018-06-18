@@ -1,19 +1,20 @@
 
 # UNL005-RECICLAPP-TIC
-Sistema cuya funcion es la de servir como canal de incentivos y de comunicacion entre usuarios y centros de acopio.
-# Nombre del Proyecto RECICLAPP-TIC
+App que fomenta el reciclaje de dispositivos electrónicos.
+# RECICLAPP-TIC
 ## Integrantes
 
 | Nombre        | Función       | 
 | ------------- |:-------------:| 
-|Oscar Felipe Castaño Martinez| right-aligned | 
-|Yuly Marcela Vargas   | centered      |   
-|Juan Diego Tovar | are neat      |   
-|Rene CaballerO| are neat      |   
-|Fernando Gaona| are neat      |   
+|Oscar Felipe Castaño Martinez|DBA,Frontend| 
+|Yuly Marcela Vargas   |Frontend|   
+|Juan Diego Tovar |DBA, Art Designer|   
+|Rene Caballero|Backend y pruebas|   
+|Fernando Gaona|Backend|   
 
 
 # Descripción del proyecto:
+Sistema cuya función es la de servir como canal de incentivos y de comunicacion entre usuarios y centros de acopio.
 # Funciones básicas:
 - El usuario debe registrarse en la plataforma
 - La app brindará informacion de centros de acopio mas cercanos.
