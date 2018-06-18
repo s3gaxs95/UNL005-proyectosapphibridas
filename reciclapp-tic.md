@@ -1,20 +1,20 @@
 
-# UNL005-proyectosapphibridas
+# UNL005-RECICLAPP-TIC
 Sistema cuya funcion es la de servir como canal de incentivos y de comunicacion entre usuarios y centros de acopio.
-# Nombre del Proyecto reciclaTic
+# Nombre del Proyecto RECICLAPP-TIC
 ## Integrantes
 
 | Nombre        | Función       | 
 | ------------- |:-------------:| 
-|Oscar Felipe Castaño Ma| right-aligned | 
+|Oscar Felipe Castaño Martinez| right-aligned | 
 |Yuly Marcela Vargas   | centered      |   
 |Juan Diego Tovar | are neat      |   
-|Rene Caballerp| are neat      |   
+|Rene CaballerO| are neat      |   
 |Fernando Gaona| are neat      |   
 
 
-#Descripción del proyecto:
-#Funciones básicas:
+# Descripción del proyecto:
+# Funciones básicas:
 -El usuario debe registrarse en la plataforma
 -La app brindará informacion de centros de acopio mas cercanos.
 -La persona obtiene un codigo cuando entrega los desechos electronicos
