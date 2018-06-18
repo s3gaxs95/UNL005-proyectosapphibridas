@@ -1,0 +1,18 @@
+# UNL005-educacion incluyente
+busca proyectar los cursos disponibles en la localidad de chapinero en una app
+# Nombre del Proyecto
+ChapiAula
+## Integrantes
+william olaya
+edna margarita rodriguez
+jhoan fabian tapia
+#Descripción del proyecto:
+la mision es mostrar como con una simple aplicacion tratamos de entregar al publico una variedad de cursos que genere un gran crecimiento formativo 
+#Funciones básicas:
+-El usuario debe generar un login
+-cursos
+-categorias de cursos
+-base de datos de referencias bibliograficas
+-notificaciones sobre los cursos en procesos
+-hubicacion gps para los cursos mas cercanos
+-video de manejo de uso de la app
